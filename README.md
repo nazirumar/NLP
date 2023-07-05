@@ -4,3 +4,7 @@
 
 
 [Natural Language Processing Recipes_ Unlocking Text Data with Machine Learning and Deep Learning using Python ( PDFDrive ).pdf](https://github.com/nazirumar/NLP/files/11956917/Natural.Language.Processing.Recipes_.Unlocking.Text.Data.with.Machine.Learning.and.Deep.Learning.using.Python.PDFDrive.pdf)
+
+
+
+![file](https://github.com/nazirumar/NLP/assets/37006224/94abc400-b881-4527-a9bd-eddd953bff28)
